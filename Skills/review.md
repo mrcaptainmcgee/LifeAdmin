@@ -3,7 +3,6 @@ name: review
 description: "Read-only review and summary skill. Triggers on prompts like run a full review, what needs attention, catch me up, weekly review, review my finances, what is stale, or file-to-goal check. 
 Supports modes: full, urgent, finance, stale, file-to-goal check, unindexed. Never writes to any file or database. Output delivered in Cowork chat only."
 version: 1.1
-Last updated: 2026-04-04
 ---
 
 ## Purpose
