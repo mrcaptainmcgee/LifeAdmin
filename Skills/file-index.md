@@ -3,7 +3,6 @@ name: file-index
 description: "Logs documents to the files table in memory.db. Triggers when a file is uploaded to Cowork or when the user asks to index or log a document. 
 Always asks the sensitivity question before indexing. Captures filename, filepath, doc_type, goal_link, sensitive flag, date_added, and optional tags and notes."
 version: 1.0
-Last updated: 2026-04-04
 ---
 
 ## Purpose
