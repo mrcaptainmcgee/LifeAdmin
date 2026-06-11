@@ -140,7 +140,3 @@ The system uses AI only where it genuinely reduces executive function load — a
 
 Development tracked via Roadmap → Changelog.
 
-## Future
-
-- Homelab expansion: local Ollama inference, Tailscale networking, redundancy
-- Obsidian vault: semantic memory, Smart Connections plugin, second brain capability
