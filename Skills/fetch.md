@@ -3,7 +3,6 @@ name: fetch
 description: "Read-only data access layer for memory.db. Called internally by other skills before any read or write operation. Never called directly by the user. 
 Triggers when any other skill needs to query goals, milestones, update_log, files, or finance data from the database."
 version: 1.1
-Last updated: 2026-04-18
 ---
 
 ## Purpose
