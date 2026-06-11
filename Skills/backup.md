@@ -3,7 +3,6 @@ name: backup
 description: "Creates a timestamped backup of memory.db to the Backup folder. Called automatically by goal-update and finance-update before any write operation. 
 Can also be called directly by the user."
 version: 2.0
-Last updated: 2026-05-24
 ---
 
 ## Purpose
