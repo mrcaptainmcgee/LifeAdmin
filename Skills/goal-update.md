@@ -3,7 +3,6 @@ name: goal-update
 description: "Updates goal and milestone data in memory.db and reflects changes in the Excel Goals tracker. 
 Triggers when the user wants to change any field on a goal or milestone including BRAG status, next action, notes, target, or blocked_by. Always calls backup before writing."
 version: 1.1
-Last updated: 2026-04-18
 ---
 
 ## Purpose
