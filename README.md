@@ -5,7 +5,7 @@ LifeAdmin | LLM-Agnostic | Skill-based | Persistant-Memory | AuDHD System Design
 A personal life administration system with embedded AI. Manages finances, goals, meals, and calendar events through a skill-based, LLM-agnostic architecture built on organised, legible data.
 LifeAdmin runs entirely within a single folder on a dedicated always-on machine. An LLM interacts with the system by reading and writing files directly — via Claude Desktop with filesystem MCP — through a structured folder architecture. Outputs sync to OneDrive for mobile access.
 
-> Note: `memory.db`, Excel output files, the Backup folder, and the Document Library are excluded from this repository as they contain personal data. The full SQLite schema is documented below. Finance tables are omitted as the finance schema is currently under active development.
+> Note: `memory.db`, Excel output files, the Backup folder, and the Document Library are excluded from this repository as they contain personal data. The full SQLite schema is documented below. Finance tables in the schema, bug_log skill and finance_update skill are ommitted as they are currently under active development.
 
 ## Architecture
 
